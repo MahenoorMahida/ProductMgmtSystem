@@ -1,0 +1,6 @@
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\bin\Debug\PMSEntity.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\bin\Debug\PMSEntity.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\obj\Debug\PMSEntity.csprojAssemblyReference.cache
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\obj\Debug\PMSEntity.csproj.CoreCompileInputs.cache
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\obj\Debug\PMSEntity.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSEntity\obj\Debug\PMSEntity.pdb

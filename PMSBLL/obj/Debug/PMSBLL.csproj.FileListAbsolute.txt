@@ -1,0 +1,13 @@
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSBLL.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSBLL.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSDAL.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSEntity.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSException.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSDAL.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSEntity.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\bin\Debug\PMSException.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\obj\Debug\PMSBLL.csprojAssemblyReference.cache
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\obj\Debug\PMSBLL.csproj.CoreCompileInputs.cache
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\obj\Debug\PMSBLL.csproj.CopyComplete
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\obj\Debug\PMSBLL.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSBLL\obj\Debug\PMSBLL.pdb

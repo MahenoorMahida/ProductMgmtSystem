@@ -1,0 +1,5 @@
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSException\bin\Debug\PMSException.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSException\bin\Debug\PMSException.pdb
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSException\obj\Debug\PMSException.csproj.CoreCompileInputs.cache
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSException\obj\Debug\PMSException.dll
+E:\CSharp\Layered Demos\ProductMgmtSystem\PMSException\obj\Debug\PMSException.pdb
